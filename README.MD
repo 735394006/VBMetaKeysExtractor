@@ -1,4 +1,4 @@
-### vbmeta.img keys extrator for Unisoc
+### 分解vbmeta.img keys extrator for Unisoc
 
 Based on [this](https://forum.hovatek.com/thread-32664.html) and [this](https://forum.hovatek.com/thread-32667.html) topics on Hovatek forum.
 
